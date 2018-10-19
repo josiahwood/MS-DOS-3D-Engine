@@ -1,0 +1,14 @@
+start main
+ start Draw
+ end   Draw
+ start Draw
+ end   Draw
+ start Draw
+ end   Draw
+ start Draw
+ end   Draw
+ start Draw
+ end   Draw
+ start Draw
+ end   Draw
+end   main
