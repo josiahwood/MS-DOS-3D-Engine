@@ -34,3 +34,35 @@ The program is hard coded to load <code>A:\TURBO\WORLD.TXT</code>.  There are a 
 Run <code>C:\TURBO\3DENGINE.EXE</code>.
 
 ### Controls
+|Key|Action|
+|---|------|
+|Up|Look Up|
+|Down|Look Down|
+|Left|Look Left|
+|Right|Look Right|
+|NumPad 8|Look Up|
+|NumPad 2|Look Down|
+|NumPad 4|Move Left (strafe)|
+|NumPad 6|Move Right (strafe)|
+|PageUp|Move Up|
+|PageDown|Move Down|
+|Tilde (~)|Stop|
+|1|10% Speed|
+|2|20% Speed|
+|3|30% Speed|
+|4|40% Speed|
+|5|50% Speed|
+|6|60% Speed|
+|7|70% Speed|
+|8|80% Speed|
+|9|90% Speed|
+|0|100% Speed|
+|Backspace|Move Backward at 25% Speed|
+|+|Increase Speed by 2%|
+|-|Decrease Speed by 2%|
+|A|Rotate the first object in WORLD.TXT|
+|O|Options Menu|
+|Z|Zoom Radar In|
+|X|Zoom Radar Out|
+|Left Mouse Button|Fire and Cycle Weapon|
+|Escape|Exit|
